@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">🔰 𝙎𝘾𝘼𝙉𝙉𝙀𝙍 – 𝙩𝙝𝙚 𝙐𝙡𝙩𝙞𝙢𝙖𝙩𝙚 𝙀𝙩𝙝𝙞𝙘𝙖𝙡 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙤𝙤𝙡</h1>
-<h3 align="center">Developed by <a href="https://github.com/pbbsa47-tech">𝓜𝓐𝓣𝓡𝓘𝓧𝓢 𝓔𝓧𝓟𝓛𝓞𝓘𝓣𝓔𝓡 ☢️</a> | Team <span style="color:red">RDCS – Red Dragon Cyber Security</span></h3>
+<h3 align="center">Developed by <a href="https://github.com/pbbsa47-tech">🔰 𝓧𝔂𝓮𝓷 𝓔𝔁𝓹𝓵𝓸𝓲𝓽𝓮 ☢️</a> | Team <span style="color:red">RDCS – Red Dragon Cyber Security</span></h3>
 <h4 align="center">⚡ Ethical Zone Box – For Authorized Testing Only ⚡</h4>
 
 ---
@@ -20,11 +20,6 @@
 
 ### 🌟 SCANNER কী?
 **SCANNER** একটি অল-ইন-ওয়ান নৈতিক হ্যাকিং টুল যা পোর্ট স্ক্যানিং, সার্ভিস ডিটেকশন, জিওলোকেশন, WAF সনাক্তকরণ, SQL ইনজেকশন চেক, CVE লুকআপ, স্টিল্থ মোড, প্রক্সি চেইনিং এবং রিপোর্ট জেনারেশন এক প্ল্যাটফর্মেই প্রদান করে। এটি সম্পূর্ণ কমান্ড-লাইন ভিত্তিক এবং টার্মাক্স, কালি লিনাক্স, উবুন্টু, প্যারট ওএস, ব্ল্যাক আর্চ, আর্চ লিনাক্স এবং উইন্ডোজে সমানভাবে কাজ করে।
-
-### ⚠️ গুরুত্বপূর্ণ সতর্কতা
-এই টুলটি **শুধুমাত্র অনুমোদিত নৈতিক পরীক্ষার জন্য**।  
-অবৈধ ব্যবহারকারীদের বিরুদ্ধে কপিরাইট আইন অনুযায়ী ব্যবস্থা নেওয়া হবে।  
-©️ সর্বস্বত্ব সংরক্ষিত – 𝓜𝓐𝓣𝓡𝓘𝓧𝓢 𝓔𝓧𝓟𝓛𝓞𝓘𝓣𝓔𝓡 & RDCS
 
 ### 🔧 ইন্সটলেশন (সব ওএস)
 **টার্মাক্স (অ্যান্ড্রয়েড):**
@@ -123,7 +118,7 @@ This tool is meant for AUTHORIZED security testing only.
 Unauthorized use is illegal. The developers assume no liability for misuse.
 
 ©️ All rights reserved.
-This software is protected by copyright law. Redistribution, modification, or copying without explicit permission from 𝓜𝓐𝓣𝓡𝓘𝓧𝓢 𝓔𝓧𝓟𝓛𝓞𝓘𝓣𝓔𝓡 (RDCS) is strictly prohibited.
+This software is protected by copyright law. Redistribution, modification, or copying without explicit permission from 🔰 𝓧𝔂𝓮𝓷 𝓔𝔁𝓹𝓵𝓸𝓲𝓽𝓮 ☢️ (RDCS) is strictly prohibited.
 Violators will be pursued under applicable international copyright legislation.
 
 💾 Installation (All OS)
@@ -205,7 +200,7 @@ Use it only on systems you own or have explicit permission to test.
 “Fear Allah and stay within the boundaries of halal.”
 
 👤 Credits
-Developer: 𝓜𝓐𝓣𝓡𝓘𝓧𝓢 𝓔𝓧𝓟𝓛𝓞𝓘𝓣𝓔𝓡 ☢️
+Developer: 🔰 𝓧𝔂𝓮𝓷 𝓔𝔁𝓹𝓵𝓸𝓲𝓽𝓮 ☢️
 
 Team: RDCS – Red Dragon Cyber Security
 
@@ -214,8 +209,7 @@ GitHub: pbbsa47-tech
 Website: http://pbbs.unaux.com/
 
 ©️ Copyright
-text
-© 2026 𝓜𝓐𝓣𝓡𝓘𝓧𝓢 𝓔𝓧𝓟𝓛𝓞𝓘𝓣𝓔𝓡 ☢️ | RDCS – Red Dragon Cyber Security
+© 2026 🔰 𝓧𝔂𝓮𝓷 𝓔𝔁𝓹𝓵𝓸𝓲𝓽𝓮 ☢️ | RDCS – Red Dragon Cyber Security
 All rights reserved. Unauthorized copying or redistribution of this file,
 via any medium, is strictly prohibited. Proprietary and confidential.
 text.
